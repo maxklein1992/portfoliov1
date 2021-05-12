@@ -1,6 +1,8 @@
 import React from 'react';
 import Resume from '../resume/resume.pdf';
-import Contact from './Contact';
+import LinkedInIcon from '@material-ui/icons/LinkedIn';
+import GitHubIcon from '@material-ui/icons/GitHub';
+import EmailIcon from '@material-ui/icons/Email';
 
 const Header = () => {
   return (
@@ -53,7 +55,15 @@ const Header = () => {
       </div>
 
       <div className='icons'>
-       <Contact/>
+        <a href="https://www.linkedin.com/in/maxklein1992/" target="_blank" rel="noopener noreferrer">
+          <LinkedInIcon style={{ fontSize: 40 }} />
+        </a>
+        <a href="https://github.com/maxklein1992" target="_blank" rel="noopener noreferrer">
+          <GitHubIcon style={{ fontSize: 40 }} />
+        </a>
+        <a href="mailto:mcklein1992@gmail.com" target="_blank" rel="noopener noreferrer">
+          <EmailIcon style={{ fontSize: 40 }} />
+        </a>
       </div>
     </header>
   );
