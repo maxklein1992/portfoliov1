@@ -56,13 +56,13 @@ const Header = () => {
 
       <div className='icons'>
         <a href="https://www.linkedin.com/in/maxklein1992/" target="_blank" rel="noopener noreferrer">
-          <LinkedInIcon style={{ fontSize: 40 }} />
+          <LinkedInIcon style={{ fontSize: 40 }} color="primary" />
         </a>
         <a href="https://github.com/maxklein1992" target="_blank" rel="noopener noreferrer">
-          <GitHubIcon style={{ fontSize: 40 }} />
+          <GitHubIcon style={{ fontSize: 40 }} color="primary" />
         </a>
         <a href="mailto:mcklein1992@gmail.com" target="_blank" rel="noopener noreferrer">
-          <EmailIcon style={{ fontSize: 40 }} />
+          <EmailIcon style={{ fontSize: 40 }} color="primary" />
         </a>
       </div>
     </header>
