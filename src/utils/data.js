@@ -17,7 +17,7 @@ export const projects = [
 export const contactLinks = [
   {
     id: 1,
-    link: `https://www.linkedin.com/in/maxklein1992/`,
+    link: `linkedin.com/in/maxklein1992`,
     name: `LinkedIn`,
     icon: `fab fa-linkedin`
   },
