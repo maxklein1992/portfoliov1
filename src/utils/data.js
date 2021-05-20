@@ -1,10 +1,10 @@
 export const projects = [
   {
     id: 1,
-    title: 'Enablon',
+    title: 'Enablon/Young Capital',
     image:
       '../images/enablon.png',
-    description: ` An Operation Risk Management software platform that integrates Permit to Work (PTW), Risk Assessment and Isolation Management into a single software solution`,
+    description: ` I did a C# traineeship for Young Capital at Enablon. Currently I am an internal employer at Enablon. Enablon is an Operation Risk Management software platform company that integrates Permit to Work (PTW), Risk Assessment and Isolation Management into a single software solution`,
     environment: ` XML, CSharp, React`,
   },
   {
@@ -28,6 +28,16 @@ export const projects = [
     description: ` Nomadscreen is a subscription service for remote workers to get a second screen delivered at their remote working place. Visitors can order a screen and can login in their dashboard.`,
     environment: ` WordPress, React`,
     demolink: `https://www.nomadscreen.com/`
+  },
+  {
+    id: 4,
+    title: 'Portfolio',
+    image:
+      '../images/portfolio.png',
+    description: ` This website I created in React to show my development work that I have done so far. You can find my resume and there is a possibility to contact me.`,
+    environment: ` React`,
+    demolink: `https://portfoliov1-seven.vercel.app/`,
+    codelink: `https://github.com/maxklein1992/portfoliov1`
   },
 ];
 
