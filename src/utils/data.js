@@ -35,7 +35,7 @@ export const projects = [
     image:
       '../images/portfolio.png',
     description: ` This website I created in React to show my development work that I have done so far. You can find my resume and there is a possibility to contact me.`,
-    environment: ` React`,
+    environment: ` React, MaterialUI`,
     demolink: `https://portfoliov1-seven.vercel.app/`,
     codelink: `https://github.com/maxklein1992/portfoliov1`
   },
