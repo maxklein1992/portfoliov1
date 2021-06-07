@@ -6,7 +6,7 @@ export const projects = [
       '../images/parcel.png',
     description: ` I did an Parcel assignment where every parcel should be added to the list of the correct Department. And then the department could sign the parcel. `,
     environment: ` React, Flexbox `,
-    demolink: `https://max-klein-master-aupt8mh2e-maxklein1992.vercel.app/`
+    demolink: `https://max-klein-master-aupt8mh2e-maxklein1992.vercel.app/`,
     codelink: `https://github.com/maxklein1992/parcelapp`
   },
   {
