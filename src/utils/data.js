@@ -30,11 +30,12 @@ export const projects = [
   },
   {
     id: 4,
-    title: 'Enablon/Young Capital',
+    title: 'Evision/Young Capital',
     image:
       '../images/enablon.png',
-    description: ` I did a C# traineeship for Young Capital at Enablon. Currently I am an internal employer at Enablon. Enablon is an Operation Risk Management software platform company that integrates Permit to Work (PTW), Risk Assessment and Isolation Management into a single software solution`,
+    description: ` I did a C# traineeship for Young Capital at Evision (currently named Enablon). Currently I am an internal employer at Evision. Evision is an Operation Risk Management software platform, for example for oil platforms. All security related processes and tasks are handled on this online platform. Evision has one main product. As implementation consultants, we configure the main product specific for the client by using XML. We use C# for automating tests and React (Javascript) for small product related updated (Risk matrix, updating buttons).`,
     environment: ` XML, CSharp, React`,
+    demolink: `https://enablon.com/`
   },
   {
     id: 5,
