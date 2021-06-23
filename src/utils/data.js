@@ -11,6 +11,16 @@ export const projects = [
   },
   {
     id: 2,
+    title: 'To Do App',
+    image:
+      '../images/todoapp.png',
+    description: ` I created a simple To Do App where the user can add, highlight and delete To Do items. The To Do Items that are added are shown in a list.`,
+    environment: ` React`,
+    demolink: `https://todoapp-b4mp7iwxv-maxklein1992.vercel.app/`,
+    codelink: `https://github.com/maxklein1992/todoist`
+  },
+  {
+    id: 3,
     title: 'Portfolio',
     image:
       '../images/portfolio.png',
@@ -20,7 +30,7 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/portfoliov1`
   },
   {
-    id: 3,
+    id: 4,
     title: 'Nomadscreen',
     image:
       '../images/nomadscreen.png',
@@ -29,16 +39,16 @@ export const projects = [
     demolink: `https://www.nomadscreen.com/`
   },
   {
-    id: 4,
+    id: 5,
     title: 'Evision/Young Capital',
     image:
       '../images/enablon.png',
-    description: ` I did a C# traineeship for Young Capital at Evision (currently named Enablon). Currently I am an internal employer at Evision. Evision is an Operation Risk Management software platform, for example for oil platforms. All security related processes and tasks are handled on this online platform. Evision has one main product. As implementation consultants, we configure the main product specific for the client by using XML. We use C# for automating tests and React (Javascript) for small product related updated (Risk matrix, updating buttons).`,
+    description: ` I did a C# traineeship for Young Capital at Evision (currently named Enablon). After the traineeship I became an internal employer at Evision. Evision is an Operation Risk Management software platform, for example for oil platforms. All security related processes and tasks are handled on this online platform. Evision has one main product. As implementation consultants, we configure the main product specific for the client by using XML. We use C# for automating tests and React (Javascript) for small product related updated (Risk matrix, updating buttons).`,
     environment: ` XML, CSharp, React`,
     demolink: `https://enablon.com/`
   },
   {
-    id: 5,
+    id: 6,
     title: 'Mafia Go',
     image:
       '../images/maffiago.png',
