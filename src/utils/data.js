@@ -1,6 +1,16 @@
 export const projects = [
   {
     id: 1,
+    title: 'Energy App Assignment',
+    image:
+      '../images/energy.png',
+    description: ` I made an assignment for an Energy application where the total energy usage should be calculated and displayed in the app. `,
+    environment: ` React, Flexbox, Styled Components `,
+    demolink: `https://energyapp-maxklein1992.vercel.app/`,
+    codelink: `https://github.com/maxklein1992/energyapp`
+  },
+  {
+    id: 2,
     title: 'Parcel Assignment',
     image:
       '../images/parcel.png',
@@ -10,7 +20,7 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/parcelapp`
   },
   {
-    id: 2,
+    id: 3,
     title: 'To Do App',
     image:
       '../images/todoapp.png',
@@ -20,7 +30,7 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/todoist`
   },
   {
-    id: 3,
+    id: 4,
     title: 'Portfolio',
     image:
       '../images/portfolio.png',
@@ -30,7 +40,7 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/portfoliov1`
   },
   {
-    id: 4,
+    id: 5,
     title: 'Nomadscreen',
     image:
       '../images/nomadscreen.png',
@@ -39,7 +49,7 @@ export const projects = [
     demolink: `https://www.nomadscreen.com/`
   },
   {
-    id: 5,
+    id: 6,
     title: 'Evision/Young Capital',
     image:
       '../images/enablon.png',
@@ -48,7 +58,7 @@ export const projects = [
     demolink: `https://enablon.com/`
   },
   {
-    id: 6,
+    id: 7,
     title: 'Mafia Go',
     image:
       '../images/maffiago.png',
