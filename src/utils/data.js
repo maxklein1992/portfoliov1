@@ -1,6 +1,16 @@
 export const projects = [
   {
     id: 1,
+    title: 'Menu Check App (In Progress)',
+    image:
+      '../images/menucheck.png',
+    description: ` I am working on an app where you can see the menus of restaurants with photos. `,
+    environment: ` React, Flexbox, Styled Components, Firebase `,
+    demolink: `https://menu-check-maxklein1992.vercel.app/`,
+    codelink: `https://github.com/maxklein1992/menucheck`
+  },
+  {
+    id: 2,
     title: 'Energy App Assignment',
     image:
       '../images/energy.png',
@@ -10,27 +20,27 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/energyapp`
   },
   {
-    id: 2,
+    id: 3,
     title: 'Parcel Assignment',
     image:
       '../images/parcel.png',
-    description: ` I did an Parcel assignment where every parcel should be added to the list of the correct Department. And then the department could sign the parcel. `,
+    description: ` I made an assignment for a Parcel application where every parcel item should be relocated to the list of the correct department. The appropriate department can sign the parcel which will remove it from the list. `,
     environment: ` React, Flexbox `,
     demolink: `https://max-klein-master-aupt8mh2e-maxklein1992.vercel.app/`,
     codelink: `https://github.com/maxklein1992/parcelapp`
   },
   {
-    id: 3,
+    id: 4,
     title: 'To Do App',
     image:
-      '../images/todoapp.png',
+      '../images/todoapp.PNG',
     description: ` I created a simple To Do App where the user can add, highlight and delete To Do items. The To Do Items that are added are shown in a list.`,
     environment: ` React`,
     demolink: `https://todoapp-b4mp7iwxv-maxklein1992.vercel.app/`,
     codelink: `https://github.com/maxklein1992/todoist`
   },
   {
-    id: 4,
+    id: 5,
     title: 'Portfolio',
     image:
       '../images/portfolio.png',
@@ -40,7 +50,7 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/portfoliov1`
   },
   {
-    id: 5,
+    id: 6,
     title: 'Nomadscreen',
     image:
       '../images/nomadscreen.png',
@@ -49,7 +59,7 @@ export const projects = [
     demolink: `https://www.nomadscreen.com/`
   },
   {
-    id: 6,
+    id: 7,
     title: 'Evision/Young Capital',
     image:
       '../images/enablon.png',
@@ -58,7 +68,7 @@ export const projects = [
     demolink: `https://enablon.com/`
   },
   {
-    id: 7,
+    id: 8,
     title: 'Mafia Go',
     image:
       '../images/maffiago.png',
