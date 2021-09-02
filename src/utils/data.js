@@ -1,16 +1,25 @@
 export const projects = [
   {
     id: 1,
-    title: 'Menu Check App (In Progress)',
+    title: 'Menu Check App in Vue.JS (In Progress)',
     image:
       '../images/menucheck.png',
     description: ` I am working on an app where you can see the menus of restaurants with photos. `,
-    environment: ` React, Flexbox, Styled Components, Firebase `,
+    environment: ` Vue.JS, Flexbox, Styled Components `,
+    codelink: `https://github.com/maxklein1992/menucheckVue`
+  },
+  {
+    id: 2,
+    title: 'Menu Check App in React.JS (In Progress)',
+    image:
+      '../images/menucheck.png',
+    description: ` I am working on an app where you can see the menus of restaurants with photos. `,
+    environment: ` React, Flexbox, Styled Components `,
     demolink: `https://menu-check-maxklein1992.vercel.app/`,
     codelink: `https://github.com/maxklein1992/menucheck`
   },
   {
-    id: 2,
+    id: 3,
     title: 'Energy App Assignment',
     image:
       '../images/energy.png',
@@ -20,7 +29,7 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/energyapp`
   },
   {
-    id: 3,
+    id: 4,
     title: 'Parcel Assignment',
     image:
       '../images/parcel.png',
@@ -30,7 +39,7 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/parcelapp`
   },
   {
-    id: 4,
+    id: 5,
     title: 'To Do App',
     image:
       '../images/todoapp.PNG',
@@ -40,7 +49,7 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/todoist`
   },
   {
-    id: 5,
+    id: 6,
     title: 'Portfolio',
     image:
       '../images/portfolio.png',
@@ -50,7 +59,7 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/portfoliov1`
   },
   {
-    id: 6,
+    id: 7,
     title: 'Nomadscreen',
     image:
       '../images/nomadscreen.png',
@@ -59,7 +68,7 @@ export const projects = [
     demolink: `https://www.nomadscreen.com/`
   },
   {
-    id: 7,
+    id: 8,
     title: 'Evision/Young Capital',
     image:
       '../images/enablon.png',
@@ -68,7 +77,7 @@ export const projects = [
     demolink: `https://enablon.com/`
   },
   {
-    id: 8,
+    id: 9,
     title: 'Mafia Go',
     image:
       '../images/maffiago.png',
