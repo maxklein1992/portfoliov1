@@ -21,7 +21,7 @@ const Header = () => {
             <p className='header_paragraph'>
               I'm Max! I'm a{' '}
               <span className='bold'>software engineer </span>
-              and economist in the Netherlands.
+              and economist from the Netherlands.
             </p>
             <p className='header_paragraph'>
               I enjoy building front-end applications using technologies such as JavaScript, React, Vue.JS, SQL, HTML and CSS.
