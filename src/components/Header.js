@@ -1,5 +1,5 @@
 import React from 'react';
-import Resume from '../resume/resume.pdf';
+import Resume from '../resume/cv_max_klein_9october2021.pdf';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import EmailIcon from '@material-ui/icons/Email';
@@ -20,11 +20,8 @@ const Header = () => {
           <div className='biography'>
             <p className='header_paragraph'>
               I'm Max! I'm a{' '}
-              <span className='bold'>software engineer </span>
-              and economist from the Netherlands.
-            </p>
-            <p className='header_paragraph'>
-              I enjoy building front-end applications using technologies such as JavaScript, React, Vue.JS, SQL, HTML and CSS.
+              <span className='bold'>React/ Vue developer </span>
+              from the Netherlands.
             </p>
             <p className='header_paragraph'>
               {' '}
@@ -45,7 +42,7 @@ const Header = () => {
             </p>{' '}
             <div className='header_paragraph'>
               <div id='contact'>
-                Contact me below to chat about opportunities, programming,
+                Contact me below to chat about (freelance) opportunities,
                 or just to say hello.
               </div>
             </div>

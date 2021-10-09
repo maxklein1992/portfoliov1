@@ -1,5 +1,5 @@
 import React from 'react';
-import Resume from '../resume/resume.pdf';
+import Resume from '../resume/cv_max_klein_9october2021.pdf';
 import NavItem from './NavItem';
 import useActive from '../hooks/useActive';
 

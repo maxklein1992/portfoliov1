@@ -1,25 +1,33 @@
 export const projects = [
   {
     id: 1,
-    title: 'Menu Check App in Vue.JS (In Progress)',
+    title: 'PuppyPlaza Platform',
     image:
-      '../images/menucheck.png',
-    description: ` I am working on an app where you can see the menus of restaurants with photos. `,
-    environment: ` Vue.JS, Flexbox, Styled Components `,
-    codelink: `https://github.com/maxklein1992/menucheckVue`
+      '../images/puppyplaza.png',
+    description: ` PuppyPlaza.com is a startup that provides a transparent platform where people can find, connect and talk to breeders directly. I am helping with building the new front-end for their Puppyplaza.com platform as a freelancer. `,
+    environment: ` Vue.JS, Vuex, Strapi, Tailwind CSS `,
   },
   {
     id: 2,
-    title: 'Menu Check App in React.JS (In Progress)',
+    title: 'Menu Check App in Vue.JS',
     image:
       '../images/menucheck.png',
-    description: ` I am working on an app where you can see the menus of restaurants with photos. `,
+    description: ` Currently working on the MVP of Menu Check, a platform where users can see the menus of restaurants with photos.`,
+    environment: ` Vue.JS, Flexbox, Tailwind CSS `,
+    codelink: `https://github.com/maxklein1992/menucheckVue`
+  },
+  {
+    id: 3,
+    title: 'Menu Check App in React.JS',
+    image:
+      '../images/menucheck.png',
+    description: ` Currently working on the MVP of Menu Check, a platform where users can see the menus of restaurants with photos.`,
     environment: ` React, Flexbox, Styled Components `,
     demolink: `https://menu-check-maxklein1992.vercel.app/`,
     codelink: `https://github.com/maxklein1992/menucheck`
   },
   {
-    id: 3,
+    id: 4,
     title: 'Energy App Assignment',
     image:
       '../images/energy.png',
@@ -29,7 +37,7 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/energyapp`
   },
   {
-    id: 4,
+    id: 5,
     title: 'Parcel Assignment',
     image:
       '../images/parcel.png',
@@ -39,27 +47,7 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/parcelapp`
   },
   {
-    id: 5,
-    title: 'To Do App',
-    image:
-      '../images/todoapp.PNG',
-    description: ` I created a simple To Do App where the user can add, highlight and delete To Do items. The To Do Items that are added are shown in a list.`,
-    environment: ` React`,
-    demolink: `https://todoapp-b4mp7iwxv-maxklein1992.vercel.app/`,
-    codelink: `https://github.com/maxklein1992/todoist`
-  },
-  {
     id: 6,
-    title: 'Portfolio',
-    image:
-      '../images/portfolio.png',
-    description: ` This website I created in React to show my development work that I have done so far. You can find my resume and there is a possibility to contact me.`,
-    environment: ` React, MaterialUI, Flexbox`,
-    demolink: `https://portfoliov1-seven.vercel.app/`,
-    codelink: `https://github.com/maxklein1992/portfoliov1`
-  },
-  {
-    id: 7,
     title: 'Nomadscreen',
     image:
       '../images/nomadscreen.png',
@@ -68,16 +56,7 @@ export const projects = [
     demolink: `https://www.nomadscreen.com/`
   },
   {
-    id: 8,
-    title: 'Evision/Young Capital',
-    image:
-      '../images/enablon.png',
-    description: ` I did a C# traineeship for Young Capital at Evision (currently named Enablon). After the traineeship I became an internal employer at Evision. Evision is an Operation Risk Management software platform, for example for oil platforms. All security related processes and tasks are handled on this online platform. Evision has one main product. As implementation consultants, we configure the main product specific for the client by using XML. We use C# for automating tests and React (Javascript) for small product related updated (Risk matrix, updating buttons).`,
-    environment: ` XML, CSharp, React`,
-    demolink: `https://enablon.com/`
-  },
-  {
-    id: 9,
+    id: 7,
     title: 'Mafia Go',
     image:
       '../images/maffiago.png',
