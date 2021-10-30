@@ -13,7 +13,8 @@ export const projects = [
     image:
       '../images/menucheck.png',
     description: ` Currently working on the MVP of Menu Check, a platform where users can see the menus of restaurants with photos.`,
-    environment: ` Vue.JS, Flexbox, Tailwind CSS `,
+    environment: ` Vue.JS, Flexbox, Tailwind CSS, Strapi `,
+    demolink: `https://menu-check-vue-maxklein1992.vercel.app/`,
     codelink: `https://github.com/maxklein1992/menucheckVue`
   },
   {
