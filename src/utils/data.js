@@ -1,21 +1,21 @@
 export const projects = [
   {
     id: 1,
-    title: 'PuppyPlaza Platform',
-    image:
-      '../images/puppyplaza.png',
-    description: ` PuppyPlaza.com is a startup that provides a transparent platform where people can find, connect and talk to breeders directly. I am helping with building the new front-end for their Puppyplaza.com platform as a freelancer. `,
-    environment: ` Vue.JS, Vuex, Strapi, Tailwind CSS `,
-    demolink: `https://puppyplaza.com/`
-  },
-  {
-    id: 2,
     title: 'Freecords',
     image:
       '../images/Freecords.png',
     description: ` Freecords is a streaming platform focused on music discovery and the showcasing of new and emerging artists. `,
     environment: ` React, React Native `,
     demolink: `https://www.freecords.com/`
+  },
+  {
+    id: 2,
+    title: 'PuppyPlaza Platform',
+    image:
+      '../images/puppyplaza.png',
+    description: ` PuppyPlaza.com is a startup that provides a transparent platform where people can find, connect and talk to breeders directly. I am helping with building the new front-end for their Puppyplaza.com platform as a freelancer. `,
+    environment: ` Vue.JS, Vuex, Strapi, Tailwind CSS `,
+    demolink: `https://puppyplaza.com/`
   },
   {
     id: 3,
