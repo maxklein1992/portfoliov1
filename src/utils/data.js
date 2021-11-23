@@ -23,7 +23,7 @@ export const projects = [
     image:
       '../images/menucheck.png',
     description: ` Currently working on the MVP of Menu Check, a platform where users can see the menus of restaurants with photos.`,
-    environment: ` React, Flexbox, Styled Components `,
+    environment: ` React, Tailwind CSS `,
     demolink: `https://menu-check-maxklein1992.vercel.app/`,
     codelink: `https://github.com/maxklein1992/menucheck`
   },
