@@ -1,66 +1,67 @@
 export const projects = [
   {
     id: 1,
-    title: 'Freecords',
-    image:
-      '../images/Freecords.png',
+    title: "Alpaca Generator",
+    image: "../images/alpaca.png",
+    description: ` An assignment to create an Alpaca generator. `,
+    environment: ` React, Tailwind CSS`,
+    demolink: `https://alpaca-maxklein1992.vercel.app/`,
+  },
+  {
+    id: 1,
+    title: "Freecords",
+    image: "../images/Freecords.png",
     description: ` Freecords is a streaming platform focused on music discovery and the showcasing of new and emerging artists. `,
     environment: ` React, React Native `,
-    demolink: `https://www.freecords.com/`
+    demolink: `https://www.freecords.com/`,
   },
   {
     id: 2,
-    title: 'PuppyPlaza Platform',
-    image:
-      '../images/puppyplaza.png',
+    title: "PuppyPlaza Platform",
+    image: "../images/puppyplaza.png",
     description: ` PuppyPlaza.com is a startup that provides a transparent platform where people can find, connect and talk to breeders directly. I am helping with building the new front-end for their Puppyplaza.com platform as a freelancer. `,
     environment: ` Vue.JS, Vuex, Strapi, Tailwind CSS `,
-    demolink: `https://puppyplaza.com/`
+    demolink: `https://puppyplaza.com/`,
   },
   {
     id: 3,
-    title: 'Menu Check App in React.JS',
-    image:
-      '../images/menucheck.png',
+    title: "Menu Check App",
+    image: "../images/menucheck.png",
     description: ` Currently working on the MVP of Menu Check, a platform where users can see the menus of restaurants with photos.`,
     environment: ` React, Tailwind CSS `,
     demolink: `https://menu-check-maxklein1992.vercel.app/`,
-    codelink: `https://github.com/maxklein1992/menucheck`
+    codelink: `https://github.com/maxklein1992/menucheck`,
   },
   {
     id: 4,
-    title: 'Energy App Assignment',
-    image:
-      '../images/energy.png',
+    title: "Energy App Assignment",
+    image: "../images/energy.png",
     description: ` I made an assignment for an Energy application where the total energy usage should be calculated and displayed in the app. `,
     environment: ` React, Flexbox, Styled Components `,
     demolink: `https://energyapp-maxklein1992.vercel.app/`,
-    codelink: `https://github.com/maxklein1992/energyapp`
+    codelink: `https://github.com/maxklein1992/energyapp`,
   },
   {
     id: 5,
-    title: 'Parcel Assignment',
-    image:
-      '../images/parcel.png',
+    title: "Parcel Assignment",
+    image: "../images/parcel.png",
     description: ` I made an assignment for a Parcel application where every parcel item should be relocated to the list of the correct department. The appropriate department can sign the parcel which will remove it from the list. `,
     environment: ` React, Flexbox `,
     demolink: `https://max-klein-master-aupt8mh2e-maxklein1992.vercel.app/`,
-    codelink: `https://github.com/maxklein1992/parcelapp`
+    codelink: `https://github.com/maxklein1992/parcelapp`,
   },
   {
     id: 6,
-    title: 'Nomadscreen',
-    image:
-      '../images/nomadscreen.png',
+    title: "Nomadscreen",
+    image: "../images/nomadscreen.png",
     description: ` Nomadscreen is a subscription service for remote workers to get a second screen delivered at their remote working place. Visitors can order a screen and can login in their dashboard.`,
     environment: ` WordPress, React`,
-    demolink: `https://www.nomadscreen.com/`
+    demolink: `https://www.nomadscreen.com/`,
   },
   {
     id: 7,
-    title: 'Mafia Go',
-    image:
-      '../images/maffiago.png',
+    title: "Mafia Go",
+    image: "../images/maffiago.png",
     description: ` Mafia Go is a smartphone app 
     that combines gaming with the real world. 
     The game uses location tracking and mapping
@@ -76,18 +77,18 @@ export const contactLinks = [
     id: 1,
     link: `linkedin.com/in/maxklein1992`,
     name: `LinkedIn`,
-    icon: `fab fa-linkedin`
+    icon: `fab fa-linkedin`,
   },
   {
     id: 2,
     link: `mailto:mcklein1992@gmail.com`,
     name: `E-mail`,
-    icon: `far fa-envelope`
+    icon: `far fa-envelope`,
   },
   {
     id: 3,
     link: `https://github.com/maxklein1992`,
     name: `GitHub`,
-    icon: `fab fa-github-square`
+    icon: `fab fa-github-square`,
   },
 ];
