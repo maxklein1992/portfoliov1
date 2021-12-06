@@ -3,7 +3,7 @@ export const projects = [
     id: 1,
     title: "Alpaca Generator",
     image: "../images/alpaca.png",
-    description: ` An assignment to create an Alpaca generator. You can select images, like other eyes, background or mouth and it will reflected in the Alpaca. `,
+    description: ` An assignment to create an Alpaca generator. You can select images, like other eyes, background or mouth and it will be reflected in the Alpaca. `,
     environment: ` React, Tailwind CSS`,
     demolink: `https://alpaca-maxklein1992.vercel.app/`,
     codelink: `https://github.com/maxklein1992/alpaca`,
