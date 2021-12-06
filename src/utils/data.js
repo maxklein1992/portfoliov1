@@ -6,6 +6,7 @@ export const projects = [
     description: ` An assignment to create an Alpaca generator. `,
     environment: ` React, Tailwind CSS`,
     demolink: `https://alpaca-maxklein1992.vercel.app/`,
+    codelink: `https://github.com/maxklein1992/alpaca`,
   },
   {
     id: 1,
