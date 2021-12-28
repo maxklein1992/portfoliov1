@@ -1,6 +1,14 @@
 export const projects = [
   {
     id: 1,
+    title: "InstaDrop",
+    image: "../images/instadrop.png",
+    description: ` InstaDrop is a Nigerian startup for a cheap and fast way to send & receive inter-state parcels. We are launching the MVP for the app.`,
+    environment: ` React Native, NodeJS, Redux`,
+    demolink: `https://instadrop.com.ng/`,
+  },
+  {
+    id: 2,
     title: "Alpaca Generator",
     image: "../images/alpaca.png",
     description: ` An assignment to create an Alpaca generator. You can select images, like other eyes, background or mouth and it will be reflected in the Alpaca. `,
@@ -9,7 +17,7 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/alpaca`,
   },
   {
-    id: 1,
+    id: 3,
     title: "Freecords",
     image: "../images/Freecords.png",
     description: ` Freecords is a streaming platform focused on music discovery and the showcasing of new and emerging artists. `,
@@ -17,7 +25,7 @@ export const projects = [
     demolink: `https://www.freecords.com/`,
   },
   {
-    id: 2,
+    id: 4,
     title: "PuppyPlaza Platform",
     image: "../images/puppyplaza.png",
     description: ` PuppyPlaza.com is a startup that provides a transparent platform where people can find, connect and talk to breeders directly. I am helping with building the new front-end for their Puppyplaza.com platform as a freelancer. `,
@@ -25,7 +33,7 @@ export const projects = [
     demolink: `https://puppyplaza.com/`,
   },
   {
-    id: 3,
+    id: 5,
     title: "Menu Check App",
     image: "../images/menucheck.png",
     description: ` Currently working on the MVP of Menu Check, a platform where users can see the menus of restaurants with photos.`,
@@ -34,7 +42,7 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/menucheck`,
   },
   {
-    id: 4,
+    id: 6,
     title: "Energy App Assignment",
     image: "../images/energy.png",
     description: ` I made an assignment for an Energy application where the total energy usage should be calculated and displayed in the app. `,
@@ -43,7 +51,7 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/energyapp`,
   },
   {
-    id: 5,
+    id: 7,
     title: "Parcel Assignment",
     image: "../images/parcel.png",
     description: ` I made an assignment for a Parcel application where every parcel item should be relocated to the list of the correct department. The appropriate department can sign the parcel which will remove it from the list. `,
@@ -52,7 +60,7 @@ export const projects = [
     codelink: `https://github.com/maxklein1992/parcelapp`,
   },
   {
-    id: 6,
+    id: 8,
     title: "Nomadscreen",
     image: "../images/nomadscreen.png",
     description: ` Nomadscreen is a subscription service for remote workers to get a second screen delivered at their remote working place. Visitors can order a screen and can login in their dashboard.`,
@@ -60,7 +68,7 @@ export const projects = [
     demolink: `https://www.nomadscreen.com/`,
   },
   {
-    id: 7,
+    id: 9,
     title: "Mafia Go",
     image: "../images/maffiago.png",
     description: ` Mafia Go is a smartphone app 
