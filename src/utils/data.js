@@ -3,9 +3,9 @@ export const projects = [
     id: 1,
     title: "Language app",
     image: "../images/languageapp.png",
-    description: ` For an assignment I made a German/English language app in React Native with some example questions. I used Firebase Firestore to host the dataset. `,
+    description: ` I made a language learning app in React Native with some example questions. I used Firebase Firestore to host the data. It was the first experience for me for combining Firestore and React Native.`,
     environment: ` React Native, Typescript, Firebase`,
-    codelink: `https://instadrop.com.ng/`,
+    codelink: `https://github.com/maxklein1992/Language-React-Native-App`,
   },
   {
     id: 2,
